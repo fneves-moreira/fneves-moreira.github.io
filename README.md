@@ -2,7 +2,6 @@
 
 A personal research website hosted for free on **GitHub Pages**.
 No domain purchase needed. Your site will be at `https://yourusername.github.io`.
-
 ---
 
 ## 📁 Project Structure
